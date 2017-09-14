@@ -2,7 +2,7 @@
 layout: post
 title: Picnic Island
 feature-img: "img/sample_feature_img.png"
-thumbnail-path: "http://www.candacecourter.com/wp-content/uploads/2013/11/picnic-island.jpg"
+thumbnail-path: "img/pi.png"
 short-description: Highlights and pictures of Tampa's Picnic Island Park.
 
 ---
